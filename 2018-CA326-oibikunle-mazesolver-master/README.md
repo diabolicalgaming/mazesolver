@@ -1,0 +1,1 @@
+This program (made in Java) demonstrates various search aglorithms visually by utilizing a virtrual robot and maze.
